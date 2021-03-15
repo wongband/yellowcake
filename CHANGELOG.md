@@ -1,3 +1,8 @@
+## 3.0.3 - 2021-04-15
+
+Yarn upgrade.
+Remove gatsby-plugin-offline plugin due to wangings and config issues.
+
 ## 3.0.3 - 2020-10-16
 
 Fix es lint from Nav component.
